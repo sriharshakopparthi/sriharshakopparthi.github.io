@@ -1,0 +1,24 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.Name {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.outer-box {
+    background-color: #3498DB; /* Outer box color */
+    padding: 40px;
+}
+
+.inner-box {
+    background-color: #FF5733; /* First color box */
+    color: white; /* White letters */
+    padding: 20px;
+}
+
+
